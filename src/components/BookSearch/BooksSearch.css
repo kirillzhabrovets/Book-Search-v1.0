@@ -1,0 +1,21 @@
+header {
+    background-image: url("https://proprikol.ru/wp-content/uploads/2020/03/kartinki-biblioteka-43.jpg");
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+header h1{
+    color: #fff;
+}
+header input{
+    height: 40px;
+    width: 250px;
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+}
